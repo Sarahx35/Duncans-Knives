@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>ten</title>
+</head>
+<body bgcolor="#000080" text="#ffffff" link="#ffff00" vlink="#ffff00" alink="#ffff00">
+<table width="100%" border="2">
+ <tr>
+  <td>
+   <p align="center">
+    <a href="home.html">
+     <font size ="+3">
+      <b>Home Page
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="knives.html">
+     <font size ="+3">
+      <b>My Knives
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="pattern_welding.html">
+     <font size ="+3">
+      <b>Pattern Welding
+      </b>
+     </font>
+    </a>
+   </p>
+  </td>
+  <td>
+   <p align="center">
+    <a href="new_projects.html">
+     <font size ="+3">
+      <b>New Projects
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="links.html">
+     <font size ="+3">
+      <b>Links
+      </b>
+     </font>
+    </a> 
+   </p>  
+  </td>  
+ </tr>
+</table>
+</body>
+<br>
+<p align="center">
+ <font size ="+2">
+  <b>Knife Ten-A 72 Layer Star Twist Pattern Sheath Knife
+  </b>
+ <br>
+ <br>
+ </font>
+I made this knife for myself from mild steel and O1 tool steel. There are 72 layers<br>
+and I left it thicker than needed after forging, so I would grind into the steel to<br>
+to expose the star twist pattern. The blade is 4 1/2 inches long, the guard is brass<br> 
+and the handle is Mexican Rosewood.<br>
+<br>
+Here is a picture after hardening:<br>
+   <br>
+    <img src="images/ten_a.jpg">
+   <br>
+<br>
+Here is the finished knife:<br>
+   <br>
+    <img src="images/ten_b.jpg">
+    <br>
+    <br>
+    <img src="images/ten_c.jpg">
+    <br>
+    <br>
+This shows the pattern better:
+   <br>
+<br>
+    <img src="images/ten_d.jpg">
+    <br>
+<br>
+Here is the sheath:
+    <br>
+   <br>
+    <img src="images/ten_e.jpg">
+    <br>
+    <br>
+  <a href="knives.html">
+Back
+    </a>
+ </p>
+</html>
