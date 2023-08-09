@@ -1,0 +1,117 @@
+<html>
+<head>
+<title>links</title>
+</head>
+<body bgcolor="#000080" text="#ffffff" link="#ffff00" vlink="#ffff00" alink="#ffff00">
+<table width="100%" border="2">
+ <tr>
+  <td>
+   <p align="center">
+    <a href="home.html">
+     <font size ="+3">
+      <b>Home Page
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="knives.html">
+     <font size ="+3">
+      <b>My Knives
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="pattern_welding.html">
+     <font size ="+3">
+      <b>Pattern Welding
+      </b>
+     </font>
+    </a>
+   </p>
+  </td>
+  <td>
+   <p align="center">
+    <a href="new_projects.html">
+     <font size ="+3">
+      <b>New Projects
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="links.html">
+     <font size ="+3">
+      <b>Links
+      </b>
+     </font>
+    </a> 
+   </p>  
+  </td>  
+ </tr>
+</table>
+ <p align="center">
+  <font size="+2">
+   <b>
+This page has links to some of the sites I have found most useful for knife making.<br>
+<br>
+   </b>
+  </font>
+If you would like to contact me you can 
+<a href="mailto:duncansknives@btopenworld.com">
+here.
+</a>
+<br>
+<br>
+ <b>
+Links:
+ </b>
+<br>
+<br>
+Merv Allen is a good teacher who runs enjoyable blacksmithing couses. You can see a page<br>
+with contact details
+<a href=" http://www.metalwizardry.com/tuition.html" target="_blank">
+here.
+</a>
+<br>
+<br>
+British Blades is a website devoted to knife making and collecting. The forums are very<br>
+interesting, and well moderated. There are also regular hammerins organised, and they are<br>
+keen to teach new people about knife making. The site is
+<a href="http://www.britishblades.com/forums/index.php" target="_blank">
+here.
+</a>
+<br>
+ <br>
+Anvilfire is an American blacksmithing site which is a great resource, the link is
+<a href="http://www.anvilfire.com/" target="_blank">
+here.
+</a>
+<br>
+<br>
+I have found the books of Jim Hrisoulas very useful, and definitly recommend them. He has a<br>
+site
+<a href="http://www.atar.com/old/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=5&MMN_position=6:6" target="_blank">
+here.
+</a>
+and the books can be bought through the BB link to amazon
+<a href="http://www.britishblades.com/home/modules.php?modname=custompage&name=bookshop" target="_blank">
+here.
+</a>
+<br>
+<br>
+  <a href="home.html">
+   <b>
+Back to home
+   </b>
+  </a>
+ </p>
+</body>
+</html>

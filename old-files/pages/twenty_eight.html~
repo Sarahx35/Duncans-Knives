@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>twenty_eight</title>
+</head>
+<body bgcolor="#000080" text="#ffffff" link="#ffff00" vlink="#ffff00" alink="#ffff00">
+<table width="100%" border="2">
+ <tr>
+  <td>
+   <p align="center">
+    <a href="home.html">
+     <font size ="+3">
+      <b>Home Page
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="knives.html">
+     <font size ="+3">
+      <b>My Knives
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="pattern_welding.html">
+     <font size ="+3">
+      <b>Pattern Welding
+      </b>
+     </font>
+    </a>
+   </p>
+  </td>
+  <td>
+   <p align="center">
+    <a href="new_projects.html">
+     <font size ="+3">
+      <b>New Projects
+      </b>
+     </font>
+    </a>
+   </p> 
+  </td>
+  <td>
+   <p align="center">
+    <a href="links.html">
+     <font size ="+3">
+      <b>Links
+      </b>
+     </font>
+    </a> 
+   </p>  
+  </td>  
+ </tr>
+</table>
+<br>
+<p align="center">
+ <font size ="+2">
+  <b>Twenty Eight - a pattern welded integral bolster knife with a 4 1/2 inch blade.<br>
+ </b>
+ </font>
+<br>
+<br>
+I made this knife for a friend of my father. It is made from the second half of the billet I used<br>
+for knife number twenty seven. It has taken me eighteen months to finish as I've been bust this year.<br>
+The blade has 36 layers of 15n20 and EN45 which I forged into a round bar and twisted.<br>
+The handle is Bocote (Mexican Rosewood).<br>
+<br>
+<br>
+ <img src="images/twenty_eight_a.jpg">
+<br>
+<br>
+<br>
+<br>
+ <img src="images/twenty_eight_b.jpg">
+<br>
+<br>
+<br>
+ <img src="images/twenty_eight_c.jpg">
+<br>
+<br>
+<br>
+    <a href="knives.html">
+Back
+    </a>
+ </p>
+</body>
+</html>
