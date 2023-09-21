@@ -4,14 +4,55 @@ body {
     background-color: white;
     font-family: 'Poltawski Nowy', serif !important;
   }
+
+  h1 {
+    font-size: 40px;
+  }
   
   p {
     font-size: 18px;
+    line-height: 1.7;
   }
   
   a {
     text-decoration: none
   }
+
+  header a {
+    font-size: 20px;
+    padding: 1em;
+  }
+
+
+  strong {
+    color: #003199
+  }
+
+  em {
+    color: grey;
+  }
+
+  figcaption {
+    color: grey;
+  }
+
+  
+  article {
+    display: block;
+    text-align: center;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  article p {
+    padding: 0.5em;
+  } 
+
+  article h2 {
+    padding-bottom: 1em;
+  }
+  
+
 
 
 
@@ -23,11 +64,12 @@ nav {
   font-size: 18px;
 }
 
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-}
+} 
 
 header a {
   text-decoration: none;
@@ -129,7 +171,7 @@ ul li:hover {
   margin-bottom: 10px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1400px) {
   header nav {
     display: none;
   }
@@ -140,3 +182,121 @@ ul li:hover {
 }
 
 /* END OF NAV BAR STYLING */
+
+
+/* HOMEPAGE */
+.two-column {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+
+.two-column img {
+  padding-right: 2em;
+}
+
+.column-title {
+  padding-bottom: 2em;
+}
+
+.column-title h1 {
+  padding-bottom: 0.2em;
+  color: #003199;
+}
+
+.column-title h4 {
+  color: grey;
+}
+
+.column-text {
+  display: block;
+  max-width: 30em;
+}
+
+.column-text p {
+  padding-bottom: 1em;
+}
+
+.column-text br {
+  padding-bottom: 1em;
+}
+
+
+@media only screen and (max-width: 1400px) {
+  .two-column {
+    flex-direction: column;
+    text-align: center;
+
+  }
+  .two-column img {
+    width: 100%;
+    padding-right: 0;
+  }
+  figure {
+    padding-bottom: 2em;
+  }
+  .column-title {
+    width: 100%;
+
+  }
+  .column-text {
+    width: 100%;
+    max-width: none;
+    padding-left: 2em;
+    padding-right: 2em;
+
+  }
+  footer hr {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* END OF HOMEPAGE */
+
+/* PATTERN WELDING */
+.hdr {
+  text-align: center;
+}
+
+.hdr h1 {
+  padding: 2em;
+}
+
+.hdr img {
+  width: 100%;
+  padding-bottom: 2em;
+}
+
+
+/* END OF PATTERN WELDING */
+
+
+/* FOOTER */
+
+hr {
+  margin-left: 40%;
+  margin-right: 40%;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+footer h2 {
+  padding-top: 0.5em;
+  color: #003199;
+}
+
+footer p {
+  padding: 0.5em;
+}
+
+
+
+
+/* END OF FOOTER */
