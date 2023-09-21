@@ -1,33 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/index.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/index.css" />
     <title>Home</title>
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <div id="brand"><a href="/">Duncan's Knives</a></div>
-        <nav>
-          <ul>
-            <li><a href="/pages/blog/blog.html">Knives</a></li>
-            <li><a href="/pages/about.html">Methodology</a></li>
-            <li><a href="/pages/contact/contact.html" >Projects</a></li>
-          </ul>
-        </nav>
-        <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
-          <div class="bar1"></div>
-          <div class="bar2"></div>
-          <div class="bar3"></div>
-          <ul class="mobile-menu">
-            <li><a href="/pages/blog/blog.html">Knives</a></li>
-            <li><a href="/pages/about.html">Methodology</a></li>
-            <li><a href="/pages/contact/contact.html" >Projects</a></li>
-          </ul>
+      <div id="brand"><a href="/">Duncan's Knives</a></div>
+      <nav>
+        <ul>
+          <li><a href="">Knives</a></li>
+          <li><a href="/public/pattern-welding.html">Methodology</a></li>
+          <li><a href="">Projects</a></li>
+        </ul>
+      </nav>
+      <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+        <ul class="mobile-menu">
+          <li><a href="">Knives</a></li>
+          <li><a href="/public/pattern-welding.html">Methodology</a></li>
+          <li><a href="">Projects</a></li>
+        </ul>
+      </div>
+    </header>
+    <div class="two-column">
+      <figure>
+        <img src="/src/images/knives/twenty_five_h.jpg" />
+        <figcaption>
+          <p>Pattern welded knife made by Duncan Underhay</p>
+        </figcaption>
+      </figure>
+      <div class="column-text">
+        <div class="column-title">
+          <h1><strong>Duncan's Knives'</strong></h1>
+          <h4>A blog purely set up for fun.</h4>
         </div>
-      </header>
-    
+        <p>
+          Forging knives since 2001, a fascination with pattern welding and
+          Damascus steel has led to the creation of many knives. <br />
+          Find out more about Duncan’s knives <u><a href="">here</a></u
+          >.
+        </p>
+        <p>
+          <strong>A note from Duncan:</strong><br /><em
+            >I hope you enjoy taking a look at my knives and appreciate the
+            magnitude of time and effort required to finish each blade.</em
+          ><br /><em
+            >I have learnt all I know about bladesmithing from Merv Allen (who
+            runs excellent hands-on courses), from the brilliant books of Jim
+            Hrisoulas and from the members of British Blades at various
+            hammerins and courses.</em
+          >
+        </p>
+      </div>
+    </div>
+    <footer>
+      <hr />
+      <div class="footer-text">
+        <h2>CONTACT</h2>
+        <p>d.underhay@yahoo.co.uk</p>
+        <p>&copy;2023 by Duncan's Knives.'</p>
+      </div>
+    </footer>
     <script src="/index.js"></script>
-</body>
+  </body>
 </html>
