@@ -281,12 +281,18 @@ ul li:hover {
 
 .instructions-text {
   text-align: start;
-  padding: 0;
+  padding: 0 !important
 }
 
 .wrap-text {
-  padding: 0;
-  margin: 0;
+  text-align: left !important;
+}
+.wrap-text p {
+  padding: 0 !important;
+}
+
+.column-article-title {
+  padding-bottom: 1em
 }
 
 
