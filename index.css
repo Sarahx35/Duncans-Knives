@@ -51,6 +51,8 @@ body {
   article h2 {
     padding-bottom: 1em;
   }
+
+
   
 
 
@@ -189,7 +191,6 @@ ul li:hover {
   display: flex;
   justify-content: center;
   margin-top: 5em;
-  margin-bottom: 5em;
 }
 
 
@@ -263,13 +264,32 @@ ul li:hover {
 }
 
 .hdr h1 {
-  padding: 2em;
+  padding: 1em;
 }
 
 .hdr img {
   width: 100%;
-  padding-bottom: 2em;
 }
+
+.hdr h2 {
+  padding-top: 2em;
+}
+
+.article-img {
+  max-width: 700px;
+}
+
+.instructions-text {
+  text-align: start;
+  padding: 0;
+}
+
+.wrap-text {
+  padding: 0;
+  margin: 0;
+}
+
+
 
 
 /* END OF PATTERN WELDING */
@@ -285,6 +305,7 @@ hr {
 
 footer {
   text-align: center;
+  padding-top: 5em;
 }
 
 footer h2 {
