@@ -5,6 +5,13 @@ body {
     font-family: 'Poltawski Nowy', serif !important;
   }
 
+  a { color: inherit; } 
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+
   h1 {
     font-size: 40px;
   }
@@ -183,7 +190,6 @@ ul li:hover {
   }
 }
 
-/* END OF NAV BAR STYLING */
 
 
 /* HOMEPAGE */
@@ -256,7 +262,6 @@ ul li:hover {
   }
 }
 
-/* END OF HOMEPAGE */
 
 /* PATTERN WELDING */
 .hdr {
@@ -298,7 +303,6 @@ ul li:hover {
 
 
 
-/* END OF PATTERN WELDING */
 
 
 /* KNIVES */
@@ -403,13 +407,76 @@ ul li:hover {
   opacity:1;
 }
 
-/* END OF OVERLAPPING TEXT */
 
 
-/* END OF GALLERY */
 
 
-/* END OF KNIVES */
+
+
+
+
+/* PROJECTS */
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+  margin-left: 2em;
+}
+
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: lightgrey;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+.card img {
+  padding-bottom: 1em;
+}
+
+.card h2 {
+  padding-bottom: 1em;
+}
+
+.card h5 {
+  padding-bottom: 1em;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+
 
 
 /* FOOTER */
@@ -437,4 +504,3 @@ footer p {
 
 
 
-/* END OF FOOTER */
