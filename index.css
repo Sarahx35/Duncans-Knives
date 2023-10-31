@@ -433,16 +433,11 @@ ul li:hover {
 }
 
 
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
+
 
 /* Add a card effect for articles */
 .card {
-  background-color: lightgrey;
+  background-color: #003199;
   padding: 20px;
   margin-top: 20px;
 }
@@ -454,10 +449,16 @@ ul li:hover {
 
 .card h2 {
   padding-bottom: 1em;
+  color: white;
 }
 
 .card h5 {
   padding-bottom: 1em;
+  color: white;
+}
+
+.card p {
+  color: white;
 }
 
 /* Clear floats after the columns */
@@ -476,6 +477,13 @@ ul li:hover {
   }
 }
 
+
+/* CATERHAM */
+.no-img {
+  padding-top: 1em;
+  padding-left: 0;
+  text-align: left;
+}
 
 
 
