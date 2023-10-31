@@ -447,9 +447,15 @@ ul li:hover {
   margin-top: 20px;
 }
 
-
 .card img {
   padding-bottom: 1em;
+}
+
+
+@media screen and (max-width: 800px) {
+  .card img {
+    width: 100%;
+  }
 }
 
 .card h2 {
