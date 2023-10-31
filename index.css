@@ -103,6 +103,11 @@ header {
   color: white;
 }
 
+#brand:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
 ul {
   list-style: none;
   height: 100%;
