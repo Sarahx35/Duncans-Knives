@@ -50,6 +50,13 @@ body {
     max-width: 1000px;
     margin: auto;
   }
+
+
+  @media only screen and (max-width: 1000px) {
+    article img {
+      width: 100%;
+    }
+  }
   
   article p {
     padding: 0.5em;
