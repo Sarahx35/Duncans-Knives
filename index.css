@@ -437,6 +437,14 @@ ul li:hover {
   margin-left: 2em;
 }
 
+@media only screen and (max-width: 1000px) {
+  .leftcolumn {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+} 
+
 
 
 
